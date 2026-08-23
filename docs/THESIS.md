@@ -6,6 +6,8 @@ The full thesis is hosted externally due to repository size limits.
 
 - Google Drive:  
 https://drive.google.com/file/d/180QO9hg7Fomwdb0tyET3OESS5Xu_ydfy/view?usp=sharing
+- National Digital Library of Theses and Dissertations in Taiwan:  
+https://hdl.handle.net/11296/5cb22c
   
 ## Notes
 
